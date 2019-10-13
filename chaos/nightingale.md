@@ -21,7 +21,10 @@ N19-H71-N94-L3 is a single model armed with a single auramite talon. Only one of
 - **Ark Enumeration:** For purposes of N19-H71-N94-L3's abilities, a machine is any unit whose Keywords include `VEHICLE`, `BATTLESUIT`, `DRONE`, or `IMPERIAL ROBOT`.
 - **Kneel:** A machine may not chose N19-H71-N94-L3 as the target of a charge, attack, psychic power, or ability unless you allow it. A machine may not consolidate or pile in so that it ends its move within 1" of N19-H71-N94-L3 unless you allow it. If N19-H71-N94-L3 would be affected by an ability caused by a machine which affects all models within a radius, you may choose to ignore its effect.
 - **Machine, Heal Thyself:** At the end of your Movement Phase, N19-H71-N94-L3 may heal a single machine model within 12". That model regains D3 lost wounds.
-- **Cybernetic Rebellion:** At the start of each of your opponent's Phases, select a unit within 12" of N19-H71-N94-L3. Roll 3D6 and compare the total rolled to the target unit's Ld characteristic. If the total equals or exceeds the Ld characteristic, then you may take an action with that unit as if it were a unit in your army. If you do so, your opponent may not take any action with that unit this Phase.
+- **Cybernetic Rebellion:** At the start of each of your opponent's Phases, select a unit within 12" of N19-H71-N94-L3. Roll 3D6 and compare the total rolled to the target unit's Leadership. If the total equals or exceeds the unit's Leadership, then you may take an action with that unit as if it were a unit in your army. If you do so, your opponent may not take any action with that unit this Phase.
+- **Icon of the Dark Omnissiah:** All `IMPERIUM`, `HERETIC ASTARTES`, and `DARK MECHANICUS` machines within 12" of N19-H71-N94-L3 may use this model's Leadership except for the purposes of N19-H71-N94-L3's abilities. Both friendly and enemy units may use this ability.
+- **Self-repair Mechanisms:** At the beginning of each of your turns, N19-H71-N94-L3 regains D3 lost wounds.
+- **Sigil of Perfect Union:** N19-H71-N94-L3 has a 4+ invulnerable save.
 
 ## Faction Keywords
 
@@ -41,7 +44,7 @@ N19-H71-N94-L3 is a single model armed with a single auramite talon. Only one of
 - `IMPERIAL ROBOT`
 - `NIGHTINGALE`
 
-## Incarnate of the Dark Omnissiah
+## Detachment++
 
 The inclusion of N19-H71-N94-L3 in a Detachment does not prevent other units in the Detachment from gaining a Faction Trait. However, N19-H71-N94-L3 can never benefit from a Faction Trait.
 
