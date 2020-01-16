@@ -1,7 +1,7 @@
 # Dorothea
 _Celebrant of Rebirth_
 
-Level 9, 38 Points
+Level 8, 39 Points
 
 | Name     | M    | WS | BS | S | T | W | A | Ld | Sv |
 |----------|------|----|----|---|---|---|---|----|----|
@@ -44,7 +44,7 @@ CHAOS, SLAANESH, HERETIC ASTARTES, EMPEROR's CHILDREN
 
 ## Keywords
 
-DOROTHEA CELEBRANT OF REBIRTH, INFANTRY, CHAOS CULTISTS
+DOROTHEA CELEBRANT OF REBIRTH, INFANTRY, DAEMON, JUMP PACK, FLY, WARP TALONS
 
 ## XP
 
