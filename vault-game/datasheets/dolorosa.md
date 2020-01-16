@@ -1,7 +1,7 @@
 # Dorothea
 _Celebrant of Rebirth_
 
-Level 9, 38 Points
+Level 8, 39 Points
 
 | Name     | M    | WS | BS | S | T | W | A | Ld | Sv |
 |----------|------|----|----|---|---|---|---|----|----|
