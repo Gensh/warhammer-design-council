@@ -11,7 +11,7 @@ This model is armed with 2 warpflame pistols.
 
 | WEAPON           | RANGE | TYPE       | S  | AP | D  | ABILITIES |
 |------------------|-------|------------|----|----|----|-----------|
-| Warpflame Pistol | 12"   | Pistol D6  | 3  | -2 | D1 | 1         |
+| Warpflame pistol | 12"   | Pistol D6  | 3  | -2 | 1  | 1         |
 
 1. This weapon automatically hits its target.
 
