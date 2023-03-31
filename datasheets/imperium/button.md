@@ -1,4 +1,4 @@
-| ![HQ](hq.png) 3 Power, 50 Points | Colonel John Button |
+| ![HQ](hq.png "HQ") 3 Power, 50 Points | Colonel John Button |
 |----------------------------------|---------------------|
 
 | Name                | M   | WS | BS | S | T | W | A | Ld | Sv |
@@ -23,6 +23,5 @@
 | **CRUSADE TRAITS**       |                                                                                                                                                                      |
 
 	
-| FACTION KEYWORDS: `IMPERIUM`, `ASTRA MILITARUM`, `KRIEG`
  KEYWORDS: `CAVALRY`, `CHARACTER`, `OFFICER`, `REGIMENTAL`, `DEATH RIDERS`, `COMMANDANT`, `COLONEL JOHN BUTTON` |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
