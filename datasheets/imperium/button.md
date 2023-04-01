@@ -3,7 +3,7 @@
 
 | Name                | M   | WS | BS | S | T | W | A | Ld | Sv |
 |---------------------|-----|----|----|---|---|---|---|----|----|
-| Colonel John Button | 10" | 3+ | 3+ | 3 | 3 | 5 | 3 | 9  | 4+ |
+| Colonel John Button | 10" | 3+ | 3+ | 3 | 3 | 5 | 4 | 9  | 4+ |
 
 | Colonel John Button is equipped with: Caliburn; bolt pistol; frag grenades. Your army can only include one `COLONEL JOHN BUTTON` model. |
 |-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,7 +11,7 @@
 | WEAPON        | RANGE | TYPE       | S  | AP | D | ABILITIES |
 |---------------|-------|------------|----|----|---|-----------|
 | Bolt pistol   | 12"   | Pistol 1   | 4  | 0  | 1 | -         |
-| Caliburn      | Melee | Melee      | +2 | -3 | 2 |           |
+| Caliburn      | Melee | Melee      | +2 | -3 | 2 | Each time the bearer fights, it can make 2 additional attacks with this weapon. |
 | Frag grenades | 6"    | Grenade d6 | 3  | 0  | 1 | Blast     |
 
 | **FACTION ABILITIES**    | **Voice of Command**, **Regimental Tactics** |
